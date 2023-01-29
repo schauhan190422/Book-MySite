@@ -1,0 +1,1 @@
+alert("Welcome, entre you ✉️ here");    /*shows alert when page loads*/
